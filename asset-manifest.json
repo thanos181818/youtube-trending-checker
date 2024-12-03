@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/youtube-trending-checker/static/css/main.42339b04.css",
+    "main.js": "/youtube-trending-checker/static/js/main.f454107a.js",
+    "index.html": "/youtube-trending-checker/index.html",
+    "main.42339b04.css.map": "/youtube-trending-checker/static/css/main.42339b04.css.map",
+    "main.f454107a.js.map": "/youtube-trending-checker/static/js/main.f454107a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42339b04.css",
+    "static/js/main.f454107a.js"
+  ]
+}
